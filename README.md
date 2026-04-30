@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm an experienced ML/MLOps Tech Lead with 5+ years of expertise in industrializing ML pipelines and
+enhancing team capabilities at various companies, as well as startup environments. 
+I'm also an active 42 alumna, volunteer in music events & repair cafés.
+I like solving interesting technical challenges and collaborating with sharp minds.
+Reach out if working together sounds fun!
+
 <!--
 **maeril/maeril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
