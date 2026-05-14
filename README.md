@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello and welcome 🪷
 
 I'm a senior MLOps and ML Engineer with 6+ years of expertise industrializing ML pipelines and
 enhancing team capabilities at various companies and startups. 
