@@ -3,9 +3,9 @@ Hello and welcome 🪷
 I'm a senior MLOps and ML Engineer with 6+ years of expertise industrializing ML pipelines and
 enhancing team capabilities at various companies and startups. 
 
-- 🤖 I'm a 42 alumna, where I'm active in clubs,
-- 🔧 I volunteer at a repair café on weekends,
-- 🪩 And as an event coordinator in the electronic music scene.
+🤖 I'm a 42 alumna, where I'm active in clubs,  
+🔧 I volunteer at a repair café on weekends,  
+🪩 And as an event coordinator in the electronic music scene.
 
 I like solving interesting technical challenges and collaborating with sharp minds.
 Reach out if working together sounds fun!
