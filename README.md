@@ -1,15 +1,12 @@
-Hello and welcome 🪷
+Welcome 🪷
 
-I'm a senior MLOps and ML Engineer with 6+ years of expertise industrializing ML pipelines and
-enhancing team capabilities at various companies and startups. 
+I'm a senior MLOps & ML Engineer with 6+ years of expertise industrializing ML pipelines and
+enhancing team capabilities at various companies & startups. 
 
-🤖 I'm a 42 alumna, where I'm active in clubs,  
-🔧 I volunteer at a repair café on weekends,  
-🪩 And as an event coordinator in the electronic music scene.
-
-I like solving interesting technical challenges and collaborating with sharp minds.
-Reach out if working together sounds fun!
-
+Some things about me:
+🤖 42 alumna & active club member
+🔧 Repair café volunteer
+🪩 Event coordinator in the electronic music scene
 
 <!--
 **maeril/maeril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
