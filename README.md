@@ -4,9 +4,9 @@ I'm a senior MLOps & ML Engineer with 6+ years of expertise industrializing ML p
 enhancing team capabilities at various companies & startups. 
 
 Some things about me:
-🤖 42 alumna & active club member
-🔧 Repair café volunteer
-🪩 Event coordinator in the electronic music scene
+- 🤖 42 alumna & active club member
+- 🔧 Repair café volunteer
+- 🪩 Event coordinator in the electronic music scene
 
 <!--
 **maeril/maeril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
