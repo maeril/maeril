@@ -5,8 +5,7 @@ enhancing team capabilities at various companies & startups.
 
 - 🤖 42 alum
 - 🔧 Repair café volunteer
-- 🪩 Event coordinator in electronic music scenes
-
+- 🪩 Event coordinator in electronic music
 <!--
 **maeril/maeril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
